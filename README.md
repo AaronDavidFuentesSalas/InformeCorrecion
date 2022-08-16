@@ -60,7 +60,15 @@ Luego calculamos el voltaje equivalente de Thevenin
 
 Luego usamos el circuito equivalente de Thevenin y obtenemos la Potencia
 
-![image](https://user-images.githubusercontent.com/105386939/184779481-23d91b75-d641-417d-aad3-52440598c7f9.png)
+![image](https://user-images.githubusercontent.com/105386939/184779832-3dd440b9-d38f-41e4-8ce1-d7e9f0a1ab6b.png)
+
+Conclusiones
+
+Podemos hacer uso de simuladores que nos ayudan a encontrar valores de voltaje, corriente y potencia sin la necesidad de emplear formulas, tambien podemos usarlos para comparar los valores obtenidos a mano para asegurarnos de estar bien en los calculos.
+
+Al realizar la correccion del examen podemos entender de mejor manera cuales han sido nuestro errores y poder corregirlos.
+
+
 
 
 
