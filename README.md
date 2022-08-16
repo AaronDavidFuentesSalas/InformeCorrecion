@@ -38,6 +38,11 @@ Hacemos la suma de la corriente y el voltaje encontrados para obtener los valore
 
 ![image](https://user-images.githubusercontent.com/105386939/184758371-d9d1a2cb-7c50-4295-abfd-b846f8e18b1e.png)
 
+Para medir la Resistencia equivalente de Thevenin, retiramos la resistencia R4
+
+![image](https://user-images.githubusercontent.com/105386939/184759048-6fd18be6-dd9f-4704-8a4b-ca01ddf6a22a.png)
+
+
 
 
 
