@@ -42,6 +42,16 @@ Para medir la Resistencia equivalente de Thevenin, retiramos la resistencia R4
 
 ![image](https://user-images.githubusercontent.com/105386939/184759048-6fd18be6-dd9f-4704-8a4b-ca01ddf6a22a.png)
 
+Medidos el voltaje equivalente de Thevenin
+
+![image](https://user-images.githubusercontent.com/105386939/184767424-2561b502-05ac-46b3-838c-4ec14114c4b5.png)
+
+![image](https://user-images.githubusercontent.com/105386939/184770392-fa72aa87-c5ca-4acf-b986-560da22bf603.png)
+
+![image](https://user-images.githubusercontent.com/105386939/184773726-2d8a856f-f12f-4dcf-b4b8-6b521326974c.png)
+
+
+
 
 
 
