@@ -50,6 +50,19 @@ Medidos el voltaje equivalente de Thevenin
 
 ![image](https://user-images.githubusercontent.com/105386939/184773726-2d8a856f-f12f-4dcf-b4b8-6b521326974c.png)
 
+Primero calculamos su resistencia equivalente de Thevenin
+
+![image](https://user-images.githubusercontent.com/105386939/184778008-b6ffbcc5-69e6-46eb-9ce3-b1ce2cdc51e6.png)
+
+Luego calculamos el voltaje equivalente de Thevenin
+
+![image](https://user-images.githubusercontent.com/105386939/184779191-09847b8d-4140-4e70-9701-9f6e3d22bc67.png)
+
+Luego usamos el circuito equivalente de Thevenin y obtenemos la Potencia
+
+![image](https://user-images.githubusercontent.com/105386939/184779481-23d91b75-d641-417d-aad3-52440598c7f9.png)
+
+
 
 
 
